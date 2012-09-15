@@ -1,4 +1,4 @@
 // Config file!
 module.exports = {
-	port: 8888
+	port: 8000
 }
